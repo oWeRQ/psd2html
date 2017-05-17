@@ -1,0 +1,4 @@
+## Install
+
+    # apt install ruby ruby-dev libxml2-dev libxslt1-dev
+    # gem install psd
